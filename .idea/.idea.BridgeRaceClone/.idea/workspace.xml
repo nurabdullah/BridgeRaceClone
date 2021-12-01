@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84dcaf84-2e17-4c50-b775-0124a1a18726" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BridgeRaceClone/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BridgeRaceClone/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/BridgeRace/Scenes/GameScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BridgeRace/Scenes/GameScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BridgeRace/Scenes/GameScene/NavMesh.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BridgeRace/Scenes/GameScene/NavMesh.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BridgeRace/Scripts/Core/CollectManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BridgeRace/Scripts/Core/CollectManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BridgeRace/Scripts/Core/PoolManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BridgeRace/Scripts/Core/PoolManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,6 +17,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/BridgeRace/Scripts/Core/CollectManager.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="21d9HJRXf8Nu1UHo1HU8pCQdMgn" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -58,6 +66,7 @@
       <updated>1638260016984</updated>
       <workItem from="1638260038057" duration="179000" />
       <workItem from="1638267949987" duration="71000" />
+      <workItem from="1638335226832" duration="7154000" />
     </task>
     <servers />
   </component>
@@ -67,6 +76,18 @@
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
